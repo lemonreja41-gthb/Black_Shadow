@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dynamic_Lemon.aternos.me",
-    "port": 53712,
+    "ip": "BlackShadow007.aternos.me:50809",
+    "port": 50809,
     "version": "1.20.1",
     "try-creative": false
   },
