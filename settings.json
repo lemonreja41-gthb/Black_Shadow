@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BlackShadow007.aternos.me:50809",
+    "ip": "BLACKSHADOWMC-S1.aternos.me",
     "port": 50809,
     "version": "1.20.1",
     "try-creative": false
